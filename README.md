@@ -1,5 +1,5 @@
-<center>#**Hi, I'm Guilherme Vaiano**</center>
-<center>##A motivated programmer student from Brazil </center>
+# **Hi, I'm Guilherme Vaiano**
+## A motivated programmer student from Brazil
 
 ![](https://komarev.com/ghpvc/?username=guilhermevaiano&color=blue)
   
