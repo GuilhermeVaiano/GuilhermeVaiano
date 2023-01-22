@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=guilhermevaiano&color=blue)
   
-- 📖**College:** Fatec São Paulo *(In Progress)*
+- 📖**College:** Fatec São Paulo - Analise e Desenvolvimento de Sistemas *(In Progress)*
 - 📚 I'm currently learning **Java**, **MySQL** and **Python**
 
 ### **How to reach me**
