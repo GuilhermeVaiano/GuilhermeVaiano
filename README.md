@@ -9,8 +9,7 @@
 ### **How to reach me**
 
 📬**E-mail:** guivnmendonca@gmail.com  
-🏢**Linkedln:** https://www.linkedin.com/in/guilherme-mendon%C3%A7a-12a83720b/
-
+🏢**Linkedln:** https://www.linkedin.com/in/guilherme-vaiano/
 
 ### Languages and Tools:
 <p>
